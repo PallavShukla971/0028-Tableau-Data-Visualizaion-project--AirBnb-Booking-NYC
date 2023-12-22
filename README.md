@@ -6,7 +6,7 @@ NOTE : Kindly see the viz in fulscreen for better understanding
 
 https://public.tableau.com/app/profile/pallav.shukla
 
-please check the dashboard from the above link
+please check the dashboard from the above link, In case for seeing the dashboard and sheets. that can be arranged on zoom call
 
 The exact particular one is listed below:
 
